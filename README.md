@@ -16,6 +16,11 @@ Cloud identity and device management projects focused on Microsoft Entra ID, Mic
   - [Creating user and Group ](https://github.com/Hamedadams01/Microsoft-Users-and-Group)
   - [Azure AD Connect](https://github.com/Hamedadams01/Azure-Active-Directory-Connection)
   - [Conditional Access & MFA](https://github.com/Hamedadams01/Conditional-Access-MFA/tree/main)
+--------------------------------------------------------------------------------------------
+# Network LAN Configuration
+This lab demonstrates how to build and verify a basic LAN (Local Area Network) using Cisco Packet Tracer. A single router, switch, two PCs, and a server are connected in a star topology and configured with static IP addresses on the same subnet (192.168.1.0/24). After cabling the devices and configuring the router (R1), switch (S1), PCs, and server, connectivity is verified using ping tests between devices — confirming that all hosts can successfully communicate across the LAN.
+
+- [LAN Configuration](https://github.com/Hamedadams01/Network-LAN-Configuration-/blob/main/README.md)
 
 -----------------------------------------------------------------------------------------------
 # Ticketing 
