@@ -32,14 +32,12 @@ IT support simulations designed to replicate common Help Desk and Desktop Suppor
 - [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
 - [Join domain](https://github.com/Hamedadams01/Join-Domain)
 - [Password Policy](https://github.com/Hamedadams01/Password-Policy-GPO-/blob/main/README.md)
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
-- 
+- [Map Driving](https://github.com/Hamedadams01/Map-Driving-Mapped-Network-Drives-via-GPO-/tree/main)
+- [Offboarding ](https://github.com/Hamedadams01/User-Offboarding-Procedure/blob/main/README.md)
+- [Printer Server](https://github.com/Hamedadams01/Printer-Server-Setup/blob/main/README.md)
+- [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
+- [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
+- [Basic LAN Configuration](https://github.com/Hamedadams01/Basic-LAN-Configuration/blob/main/README.md)
+
 
 
