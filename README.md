@@ -26,3 +26,6 @@ This lab demonstrates how to build and verify a basic LAN (Local Area Network) u
 # Ticketing 
 IT support simulations designed to replicate common Help Desk and Desktop Support responsibilities. These projects focus on troubleshooting, incident management, ticket documentation, user account support, password resets, account unlocks, and customer service workflows to develop real-world support experience.
   - [Ticketing](https://github.com/Hamedadams01/Ticketing)
+
+
+- [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
