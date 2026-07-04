@@ -30,3 +30,16 @@ IT support simulations designed to replicate common Help Desk and Desktop Suppor
 
 - [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
 - [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
+- [Join domain](https://github.com/Hamedadams01/Join-Domain)
+- [Password Policy](https://github.com/Hamedadams01/Password-Policy-GPO-/blob/main/README.md)
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+- 
+
+
