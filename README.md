@@ -1,6 +1,7 @@
 
-# Hamed Adams
-## IT Support/ Helpdesk
+# Hamed Adams 
+
+### IT Support | Help Desk | Active Directory
 -----
 Hands-on labs covering Active Directory, Group Policy, networking, imaging, and troubleshooting — built to practice real-world sysadmin and help desk workflows in a lab environment.
 
@@ -68,7 +69,30 @@ Deeper investigation tracing the exact source of a recurring account lockout usi
 
 - [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
 
-## 📫 Feel free to explore any of the projects above — each includes a full write-up with screenshots documenting the process step by 
+## 📫 Explore My Projects
+
+Each repository contains:
+
+- Step-by-step implementation guides
+- Screenshots of each configuration
+- Troubleshooting procedures
+- Validation and testing
+- Lessons learned
+- Real-world IT support scenarios
+
+These projects demonstrate the practical skills used by Help Desk Technicians, Desktop Support Specialists, and Junior System Administrators in enterprise environments.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 - [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
