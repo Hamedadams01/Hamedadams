@@ -1,31 +1,84 @@
-# Hi, I'm Hamed Adams 👋
-<h2>IT Support | Help Desk | Active Directory | Azure | Microsoft 365:</h2>
 
-I build and document hands-on IT infrastructure labs that simulate real-world enterprise environments. My projects focus on Active Directory administration, Microsoft Entra ID, Azure cloud identity, Group Policy, Windows Server, Microsoft 365, and IT support operations. Through these labs, I develop practical skills used by Help Desk, System Administrator, and Cloud Support professionals.
+# Hamed Adams
+## IT Support/ Helpdesk
+-----
+Hands-on labs covering Active Directory, Group Policy, networking, imaging, and troubleshooting — built to practice real-world sysadmin and help desk workflows in a lab environment.
 
-# Virtual Box
-Hands-on infrastructure projects built within VirtualBox to simulate real-world enterprise IT environments. These labs focus on Windows Server administration, Active Directory deployment, domain management, user administration, workstation configuration, and Group Policy implementation to develop practical system administration skills.
- - [Server and Windows 11 Imaging ](https://github.com/Hamedadams01/Active-Directory-Lab)
- - [Active Directory & Domain](https://github.com/Hamedadams01/Active-Directory/tree/main)
- - [Users and Organizational Units](https://github.com/Hamedadams01/Users-and-Organizational-Units)
- - [Connect to Domain](https://github.com/Hamedadams01/Connect-to-Domain/blob/main/README.md)
- - [Group Policy](https://github.com/Hamedadams01/Group-Policy/blob/main/README.md)
-----------------------------------------------------------------------------------------------
-# Entra ID/ Intune
-Cloud identity and device management projects focused on Microsoft Entra ID, Microsoft Intune, Microsoft 365 administration, access control, user provisioning, device enrollment, and security policy management. These labs demonstrate modern cloud administration and identity management practices used in enterprise environments.
-  - [Creating user and Group ](https://github.com/Hamedadams01/Microsoft-Users-and-Group)
-  - [Azure AD Connect](https://github.com/Hamedadams01/Azure-Active-Directory-Connection)
-  - [Conditional Access & MFA](https://github.com/Hamedadams01/Conditional-Access-MFA/tree/main)
---------------------------------------------------------------------------------------------
-# Network LAN Configuration
-This lab demonstrates how to build and verify a basic LAN (Local Area Network) using Cisco Packet Tracer. A single router, switch, two PCs, and a server are connected in a star topology and configured with static IP addresses on the same subnet (192.168.1.0/24). After cabling the devices and configuring the router (R1), switch (S1), PCs, and server, connectivity is verified using ping tests between devices — confirming that all hosts can successfully communicate across the LAN.
 
-- [LAN Configuration](https://github.com/Hamedadams01/Network-LAN-Configuration-/blob/main/README.md)
+## 🗂️ Directory Services & Group Policy
 
------------------------------------------------------------------------------------------------
-# Ticketing 
-IT support simulations designed to replicate common Help Desk and Desktop Support responsibilities. These projects focus on troubleshooting, incident management, ticket documentation, user account support, password resets, account unlocks, and customer service workflows to develop real-world support experience.
-  - [Ticketing](https://github.com/Hamedadams01/Ticketing)
+### Active Directory
+
+Standing up a Windows Server domain controller and configuring Active Directory Domain Services from scratch.
+
+- [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
+  
+### Join Domain
+
+Joining a client workstation to the domain and verifying domain authentication.
+
+- [Join domain](https://github.com/Hamedadams01/Join-Domain)
+
+### Password Policy
+
+Enforcing a domain-wide password policy through Group Policy Objects.
+
+- [Password Policy](https://github.com/Hamedadams01/Password-Policy-GPO-/blob/main/README.md)
+
+### Mapped Network Drives via GPO
+
+Automatically mapping shared network drives for users through GPO.
+
+- [Map Driving](https://github.com/Hamedadams01/Map-Driving-Mapped-Network-Drives-via-GPO-/tree/main)
+
+  
+### Printer Server Setup
+
+Deploying a shared printer through a print server and pushing it to clients via GPO.
+
+- [Printer Server](https://github.com/Hamedadams01/Printer-Server-Setup/blob/main/README.md)
+  
+------
+## 🌐 Networking
+
+### Basic LAN Configuration
+
+Building and verifying a small LAN in Cisco Packet Tracer — cabling, IP addressing, and router/switch CLI configuration.
+
+- [Basic LAN Configuration](https://github.com/Hamedadams01/Basic-LAN-Configuration/blob/main/README.md)
+
+
+--------
+## 🖥️ Deployment & Imaging
+
+### Server Client Imaging
+
+Imaging and deploying client machines from a central server.
+
+- [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
+--------
+
+## 🛠️ IT Support & Troubleshooting
+
+### User Offboarding Procedure
+
+Standard procedure for securely disabling and offboarding a departing user's account and access.
+
+- [Offboarding ](https://github.com/Hamedadams01/User-Offboarding-Procedure/blob/main/README.md)
+  
+### Account Lockout Troubleshooting
+
+Diagnosing and resolving repeated Active Directory account lockouts.
+
+- [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
+
+### Root Cause Lockout Investigation
+
+Deeper investigation tracing the exact source of a recurring account lockout using event logs.
+
+- [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
+
+## 📫 Feel free to explore any of the projects above — each includes a full write-up with screenshots documenting the process step by 
 
 
 - [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
