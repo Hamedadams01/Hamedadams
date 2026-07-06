@@ -51,6 +51,10 @@ Creating users and managing Microsoft Entra security groups
 
 ## 🛠️ IT Support & Troubleshooting
 
+###  Tickets
+Documented a repeatable IT troubleshooting framework to show structured, professional incident-resolution skills
+- [Troubleshooting Ticket Methodology ](https://github.com/Hamedadams01/Troubleshooting-Tickets/blob/main/README.md)
+
 ### User Offboarding Procedure
 Standard procedure for securely disabling and offboarding a departing user's account and access.
 - [Offboarding ](https://github.com/Hamedadams01/User-Offboarding-Procedure/blob/main/README.md)
