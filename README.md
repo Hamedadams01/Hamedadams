@@ -22,7 +22,6 @@ Enforcing a domain-wide password policy through Group Policy Objects.
 ### Mapped Network Drives via GPO
 Automatically mapping shared network drives for users through GPO.
 - [Map Driving](https://github.com/Hamedadams01/Map-Driving-Mapped-Network-Drives-via-GPO-/tree/main)
-
   
 ### Printer Server Setup
 Deploying a shared printer through a print server and pushing it to clients via GPO.
@@ -43,6 +42,12 @@ Building and verifying a small LAN in Cisco Packet Tracer — cabling, IP addres
 Imaging and deploying client machines from a central server.
 - [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
 --------
+## ☁️ Microsoft Entra ID
+
+### Security Group & User Provisioning
+Creating users and managing Microsoft Entra security groups
+- [Microsoft Entra ID ](https://github.com/Hamedadams01/Microsoft-Entra-ID-Security-Group-and-User-Provisioning/blob/main/README.md)
+------
 
 ## 🛠️ IT Support & Troubleshooting
 
@@ -56,7 +61,6 @@ Diagnosing and resolving repeated Active Directory account lockouts.
 
 ### Root Cause Lockout Investigation
 Deeper investigation tracing the exact source of a recurring account lockout using event logs.
-
 - [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
 
 ## 📫 Explore My Projects
@@ -69,12 +73,11 @@ Each repository contains:
 - Lessons learned
 - Real-world IT support scenarios
 
-These projects demonstrate the practical skills used by Help Desk Technicians, Desktop Support Specialists, and Junior System Administrators in enterprise environments.
 
 
 
 
-
+---------------------------------
 
 
 
@@ -94,6 +97,5 @@ These projects demonstrate the practical skills used by Help Desk Technicians, D
 - [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
 - [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
 - [Basic LAN Configuration](https://github.com/Hamedadams01/Basic-LAN-Configuration/blob/main/README.md)
-
-
+- [Microsoft Entra ID ](https://github.com/Hamedadams01/Microsoft-Entra-ID-Security-Group-and-User-Provisioning/blob/main/README.md)
 
