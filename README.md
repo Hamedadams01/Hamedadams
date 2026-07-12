@@ -63,6 +63,9 @@ Standard procedure for securely disabling and offboarding a departing user's acc
 Diagnosing and resolving repeated Active Directory account lockouts.
 - [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
 
+### No Internet Connection
+- [No Internet Troubleshooting](https://github.com/Hamedadams01/Troubleshooting-No-Internet-Connection/blob/main/README.md)
+
 ### Root Cause Lockout Investigation
 Deeper investigation tracing the exact source of a recurring account lockout using event logs.
 - [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
