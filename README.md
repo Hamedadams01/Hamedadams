@@ -64,6 +64,7 @@ Diagnosing and resolving repeated Active Directory account lockouts.
 - [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
 
 ### No Internet Connection
+Resolved workstation internet outage caused by incorrect default gateway
 - [No Internet Troubleshooting](https://github.com/Hamedadams01/Troubleshooting-No-Internet-Connection/blob/main/README.md)
 
 ### Root Cause Lockout Investigation
