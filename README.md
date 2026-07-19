@@ -5,6 +5,10 @@
 -----
 Hands-on labs covering Active Directory, Group Policy, networking, imaging, and troubleshooting — built to practice real-world sysadmin and help desk workflows in a lab environment.
 
+### Server Client Imaging
+Imaging and deploying client machines from a central server.
+- [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
+
 ## 🗂️ Directory Services & Group Policy
 
 
@@ -12,9 +16,6 @@ Hands-on labs covering Active Directory, Group Policy, networking, imaging, and 
 - [Join domain](https://github.com/Hamedadams01/Join-Domain)
 - [Password Policy](https://github.com/Hamedadams01/Password-Policy-GPO-/blob/main/README.md)
 - [Map Driving](https://github.com/Hamedadams01/Map-Driving-Mapped-Network-Drives-via-GPO-/tree/main)
-  
-### Printer Server Setup
-Deploying a shared printer through a print server and pushing it to clients via GPO.
 - [Printer Server](https://github.com/Hamedadams01/Printer-Server-Setup/blob/main/README.md)
   
 ------
@@ -24,13 +25,6 @@ Deploying a shared printer through a print server and pushing it to clients via 
 Building and verifying a small LAN in Cisco Packet Tracer — cabling, IP addressing, and router/switch CLI configuration.
 - [Basic LAN Configuration](https://github.com/Hamedadams01/Basic-LAN-Configuration/blob/main/README.md)
 
-
---------
-## 🖥️ Deployment & Imaging
-
-### Server Client Imaging
-Imaging and deploying client machines from a central server.
-- [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
 --------
 ## ☁️ Microsoft Entra ID
 
@@ -45,20 +39,9 @@ Creating users and managing Microsoft Entra security groups
 Documented a repeatable IT troubleshooting framework to show structured, professional incident-resolution skills
 - [Troubleshooting Ticket Methodology ](https://github.com/Hamedadams01/Troubleshooting-Tickets/blob/main/README.md)
 
-### User Offboarding Procedure
-Standard procedure for securely disabling and offboarding a departing user's account and access.
 - [Offboarding ](https://github.com/Hamedadams01/User-Offboarding-Procedure/blob/main/README.md)
-  
-### Account Lockout Troubleshooting
-Diagnosing and resolving repeated Active Directory account lockouts.
-- [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.md)
-
-### No Internet Connection
-Resolved workstation internet outage caused by incorrect default gateway
+- [ Account Lockout Troubleshooting](https://github.com/Hamedadams01/Account-Lockout-Troubleshooting/blob/main/README.ed)
 - [No Internet Troubleshooting](https://github.com/Hamedadams01/Troubleshooting-No-Internet-Connection/blob/main/README.md)
-
-### Root Cause Lockout Investigation
-Deeper investigation tracing the exact source of a recurring account lockout using event logs.
 - [ Root Cause Lockout Investigation](https://github.com/Hamedadams01/Root-Cause-Lockout-Investigation/blob/main/README.md)
 
 ## 📫 Explore My Projects
