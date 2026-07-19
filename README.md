@@ -7,17 +7,10 @@ Hands-on labs covering Active Directory, Group Policy, networking, imaging, and 
 
 ## 🗂️ Directory Services & Group Policy
 
-### Active Directory
+
 - [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
-### Join Domain
 - [Join domain](https://github.com/Hamedadams01/Join-Domain)
-
-### Password Policy
-Enforcing a domain-wide password policy through Group Policy Objects.
 - [Password Policy](https://github.com/Hamedadams01/Password-Policy-GPO-/blob/main/README.md)
-
-### Mapped Network Drives via GPO
-Automatically mapping shared network drives for users through GPO.
 - [Map Driving](https://github.com/Hamedadams01/Map-Driving-Mapped-Network-Drives-via-GPO-/tree/main)
   
 ### Printer Server Setup
