@@ -5,7 +5,7 @@
 -----
 Hands-on labs covering Active Directory, Group Policy, networking, imaging, and troubleshooting — built to practice real-world sysadmin and help desk workflows in a lab environment.
 
-### Server Client Imaging
+### 💿Server Client Imaging
 Imaging and deploying client machines from a central server.
 - [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
 
