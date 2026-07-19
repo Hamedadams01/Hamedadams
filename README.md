@@ -8,11 +8,8 @@ Hands-on labs covering Active Directory, Group Policy, networking, imaging, and 
 ## 🗂️ Directory Services & Group Policy
 
 ### Active Directory
-Standing up a Windows Server domain controller and configuring Active Directory Domain Services from scratch.
 - [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
-  
 ### Join Domain
-Joining a client workstation to the domain and verifying domain authentication.
 - [Join domain](https://github.com/Hamedadams01/Join-Domain)
 
 ### Password Policy
