@@ -5,11 +5,11 @@
 -----
 Hands-on labs covering Active Directory, Group Policy, networking, imaging, and troubleshooting — built to practice real-world sysadmin and help desk workflows in a lab environment.
 
-### 💿Server Client Imaging
+## 💿Server Client Imaging
 Imaging and deploying client machines from a central server.
 - [Server Client Imaging](https://github.com/Hamedadams01/Server-Client-Imaging)
 
-## 🗂️ Directory Services & Group Policy
+### 🗂️ Directory Services & Group Policy
 
 
 - [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
@@ -19,21 +19,21 @@ Imaging and deploying client machines from a central server.
 - [Printer Server](https://github.com/Hamedadams01/Printer-Server-Setup/blob/main/README.md)
   
 ------
-## 🌐 Networking
+### 🌐 Networking
 
 ### Basic LAN Configuration
 Building and verifying a small LAN in Cisco Packet Tracer — cabling, IP addressing, and router/switch CLI configuration.
 - [Basic LAN Configuration](https://github.com/Hamedadams01/Basic-LAN-Configuration/blob/main/README.md)
 
 --------
-## ☁️ Microsoft Entra ID
+### ☁️ Microsoft Entra ID
 
 ### Security Group & User Provisioning
 Creating users and managing Microsoft Entra security groups
 - [Microsoft Entra ID ](https://github.com/Hamedadams01/Microsoft-Entra-ID-Security-Group-and-User-Provisioning/blob/main/README.md)
 ------
 
-## 🛠️ IT Support & Troubleshooting
+### 🛠️ IT Support & Troubleshooting
 
 ###  Tickets
 Documented a repeatable IT troubleshooting framework to show structured, professional incident-resolution skills
