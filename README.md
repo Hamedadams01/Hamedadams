@@ -13,6 +13,7 @@ Imaging and deploying client machines from a central server.
 
 
 - [Active Directory](https://github.com/Hamedadams01/Active-Directory-/blob/main/README.md)
+- [Active Directory automation](https://github.com/Hamedadams01/Automated-Active-Directory-User-OU-Provisioning)
 - [Join domain](https://github.com/Hamedadams01/Join-Domain)
 - [Password Policy](https://github.com/Hamedadams01/Password-Policy-GPO-/blob/main/README.md)
 - [Map Driving](https://github.com/Hamedadams01/Map-Driving-Mapped-Network-Drives-via-GPO-/tree/main)
